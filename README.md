@@ -9,22 +9,37 @@ This repository contains datasets related to **Teleperformance**, covering areas
 
 📂 Teleperformance-Kaggle-Datasets
 
-│── 📄 README.md             
-# Project documentation 
-│── 📂 data/               
-# Raw & processed datasets from Kaggle 
-│── 📂 analysis/              
-# Reports and insights from dataset exploration 
+│── 📄 README.md   
+
+**Project documentation**
+
+│── 📂 data/ 
+
+**Raw & processed datasets from Kaggle**
+
+│── 📂 analysis/    
+
+**Reports and insights from dataset exploration**
+
 │── 📂 models/                
-# Machine learning models for customer analytics
-│── 📂 results/               
-# Visualizations and statistical findings 
-│── 📂 config/                 
-# Configuration files & metadata 
+
+**Machine learning models for customer analytics**
+
+│── 📂 results/       
+
+**Visualizations and statistical findings**
+
+│── 📂 config/           
+
+**Configuration files & metadata**
+
 │── 📄 requirements.txt      
-# Dependencies for analysis tools 
+
+**Dependencies for analysis tools**
+
 │── 📄 LICENSE              
-# Legal information about dataset usage
+
+**Legal information about dataset usage**
 
 ## 🔍 Dataset Description
 The datasets include insights on:
@@ -51,10 +66,10 @@ The datasets include insights on:
 pip install -r requirements.txt
 - Explore datasets using analytics and machine learning tools.
   
-**📜 License**
+## 📜 License
 
 This dataset is intended for research, business intelligence, and operational optimization.
 
-**🙌 Acknowledgments**
+## 🙌 Acknowledgments
 
 Special thanks to Kaggle, Teleperformance, and data science contributors for providing valuable insights.
